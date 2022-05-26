@@ -16,4 +16,4 @@ const options = {
 
 const app = express();
 app.use(createProxyMiddleware(options));
-app.listen(80);
+app.listen(process.env.PORT || 3000);

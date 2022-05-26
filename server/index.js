@@ -16,4 +16,4 @@ const options = {
 
 const app = express();
 app.use(createProxyMiddleware(options));
-app.listen(3000);
+app.listen(80);

@@ -5,7 +5,7 @@ const app = express();
 
 app.use(
     createProxyMiddleware({
-        target: process.env.DOMAIN_PROXY || 'https://my.doopage.com', 
+        target: 'https://my.doopage.com', 
         changeOrigin: true, 
         ws: true,
         pathRewrite: {
@@ -17,4 +17,4 @@ app.use(
       })
 );
 
-app.listen(process.env.PORT || 3000);
+app.listen( 3000);

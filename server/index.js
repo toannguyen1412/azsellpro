@@ -5,7 +5,7 @@ const app = express();
 
 app.use(
     createProxyMiddleware({
-        target: 'https://my.doopage.com', 
+        target: 'https://app.chatwoot.com', 
         changeOrigin: true, 
         ws: true,
         pathRewrite: {

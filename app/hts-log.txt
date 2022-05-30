@@ -1,0 +1,56 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 30 May 2022 19:22:58 at https://www.chatwoot.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.chatwoot.com/ -O1 "C:\My Web Sites\https___www.chatwoot.com_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:28:23	Error: 	Exit requested by shell or user
+19:28:24	Warning: 	File not added due to mirror cancel: https://www.chatwoot.com/docs/assets/images/finish_inbox-8f6a8a4269afee429377d37f62b036d1.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/071/430-28984d3ece2cd11642fe077aae909cb657a96136.jpg
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/071/431-d462acca4e3b3f130def92ffb4d6a1d495c5f847.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/071/432-809e025f0a17249cb646c47310a2b4565e85564f.jpg
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/071/436-4425dce0bcae54de84b178fb7cf39b18c368220d.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/069/672-0d4aeecc4fbcf3fe1f105e3fb6dede21bf9750da.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/069/673-131d4733e1c20ac9965c1fbb3fdd6c15a7a16382.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/069/674-825a890df0d18f9158b0b6b7cc09e099727a69eb.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/069/676-f502492bd5af86be093d6eb02f8994f20bc58b4e.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/067/846-251e381db4759a3c470cecfcd03a3eae101a7382.jpg
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/067/708-6f8f35b77d893c2664519657e5023b676964cf68.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/067/845-e87636f5d4b1649a04b6ea3b4c4d02c0b44d6c2f.jpg
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/066/318-504004882076f381983efb3161b8bd38f40c3ca8.jpg
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/062/490-2422a50cdd5effbd3b7833483a37b7a48fd42cb4.jpg
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/062/493-d2451210db54961aecd55ed9c7bb42b6684885ea.jpg
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/060/815-03a5b02709c5727fa871bdfcc163a7a1d2475818.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/060/816-27ff79ce71f207d9f01007d2964dbbe4720d0ac1.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/061/011-d575aea8a10c7a1722d17d697ca4d13856f89e3e.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/061/010-88cd2593c2ee5fccd65443c0cd6db7fc0f4d9fd5.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/059/462-c53c9682c6c50a82411fd865676f75d2d536401e.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/057/804-60c9f3427d3326b54584819cb882c186bd68ef29.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/057/805-eba34d02a9e4cf0b3ac26d19942ab933c6e5b8f8.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/056/182-0346b6b132d586ed6d00b92b3e297ac8503dcbe3.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/056/183-9ecd07871ee9513b90944d3c752ba1bb0fe7b001.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/056/184-55bd092b0334605f4a76118ba9dab02b45531e7c.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/056/186-42863d206941324aa5011b9475b9fee222d48fc9.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/056/188-9537b4ab87289e8132a63250c0c9cb05ea855e7e.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/053/009-0350d4a3dfacb52267f5f2657be4e18478f2aa38.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/053/007-03e2950a22d4e1d1d3ab4cd2423c9fe534b5e20a.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/052/307-29f7d4df4eb4511267b8e2e80bfc7114bb1ff8fc.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/052/303-76323e092985b471ad88fdc91d44f6b8a13d2349.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/052/302-1cecd3afba5e51ff96759ae6b11b99044a2262fc.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/050/498-58e301ee01d1b84ca75b4ac151ed750135d6b31a.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/050/499-c0efa7549e643e0bcfa995956f3defb3e169b691.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/050/501-f5e257c7e0c1f19f6cdd4092141af83bd027e502.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/050/502-89c3c408af6b8908c94ce22b78b791c37b5de2d7.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/048/672-65c6f84daa31a62b9a2ae03c1d6ce027e90fa4bb.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/048/662-441271dae115ab688ee9b52c888fb947257e7f24.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/048/671-ab5a3f8dbdbf501e525d1e369c2b61fd70ac9b00.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/046/953-a4f9a120271e64f3127981b3bd47e8462f7a7a3e.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/046/954-cf845cc25e65d03b118031c2cd363e74e7862ff1.gif
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/046/951-b770f1612069a58ad7f0d12051d6bf7568d44641.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/046/955-516b0b7168da1b6cdc16be722e6447392d47a009.png
+19:28:26	Warning: 	File not parsed, looks like binary: https://cloud.headwayapp.co/changelogs_images/images/big/000/046/947-e1ea0741d0b7b31854a6eaaba50af4a2fc06c5bd.png
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 28 seconds : 611 links scanned, 610 files written (108566694 bytes overall) [75837236 bytes received at 231211 bytes/sec], 44345706 bytes transferred using HTTP compression in 317 files, ratio 24%, 1.3 requests per connection
+(1 errors, 44 warnings, 0 messages)

@@ -1,9 +1,5 @@
 {
-    "rewrites": [
-      {
-        "source": "/:path*",
-        "destination": "/content/:path*"
-      }
+    "redirects": [
+      { "source": "/", "destination": "/content/index.html" }
     ]
   }
-  
